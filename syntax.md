@@ -9,6 +9,8 @@
 [另一个教程](http://wowubuntu.com/markdown/)
 <br/>
 
+***
+
 Markdown 文件
 ==================
 
