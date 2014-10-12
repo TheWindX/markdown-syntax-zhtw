@@ -1,11 +1,8 @@
-
-[在线学习](http://markdowntutorial.com/conclusion/)
-
-[在线编辑](http://markable.in/)
-
-[在线编辑](http://Dillinger.io/)
-
-[另一个教程](http://wowubuntu.com/markdown/)
+>	[cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+	[在线学习](http://markdowntutorial.com/conclusion/)
+	[在线编辑](http://markable.in/)
+	[在线编辑](http://Dillinger.io/)
+	[另一个教程](http://wowubuntu.com/markdown/)
 
 Markdown 文件
 ==================
