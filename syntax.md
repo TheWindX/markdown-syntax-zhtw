@@ -9,8 +9,8 @@ Document. Please refer to [Markdown: Syntax][eng-doc].
 
 [eng-doc]:http://daringfireball.net/projects/markdown/syntax
 
-
-[教程/测试](http://markdowntutorial.com/conclusion/)
+[另一个教程](http://wowubuntu.com/markdown/)
+[在线测试](http://markdowntutorial.com/conclusion/)
 Markdown: Syntax
 ================
 
